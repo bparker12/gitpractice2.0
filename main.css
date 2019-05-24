@@ -1,0 +1,16 @@
+body {
+    background-color: darkgray
+}
+
+ul {
+    display: flex;
+    align-content: center;
+}
+li {
+    width: 100px;
+    height: 100px;
+    background-color: darkgray;
+    margin: 8px;
+    font-size: 25px;
+    list-style: none;
+}
